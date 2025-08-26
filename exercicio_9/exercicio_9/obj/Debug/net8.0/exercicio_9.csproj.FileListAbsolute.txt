@@ -1,0 +1,14 @@
+C:\Users\Zenilda\Desktop\tpa 25-08\exercicio_9\exercicio_9\bin\Debug\net8.0\exercicio_9.exe
+C:\Users\Zenilda\Desktop\tpa 25-08\exercicio_9\exercicio_9\bin\Debug\net8.0\exercicio_9.deps.json
+C:\Users\Zenilda\Desktop\tpa 25-08\exercicio_9\exercicio_9\bin\Debug\net8.0\exercicio_9.runtimeconfig.json
+C:\Users\Zenilda\Desktop\tpa 25-08\exercicio_9\exercicio_9\bin\Debug\net8.0\exercicio_9.dll
+C:\Users\Zenilda\Desktop\tpa 25-08\exercicio_9\exercicio_9\bin\Debug\net8.0\exercicio_9.pdb
+C:\Users\Zenilda\Desktop\tpa 25-08\exercicio_9\exercicio_9\obj\Debug\net8.0\exercicio_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zenilda\Desktop\tpa 25-08\exercicio_9\exercicio_9\obj\Debug\net8.0\exercicio_9.AssemblyInfoInputs.cache
+C:\Users\Zenilda\Desktop\tpa 25-08\exercicio_9\exercicio_9\obj\Debug\net8.0\exercicio_9.AssemblyInfo.cs
+C:\Users\Zenilda\Desktop\tpa 25-08\exercicio_9\exercicio_9\obj\Debug\net8.0\exercicio_9.csproj.CoreCompileInputs.cache
+C:\Users\Zenilda\Desktop\tpa 25-08\exercicio_9\exercicio_9\obj\Debug\net8.0\exercicio_9.dll
+C:\Users\Zenilda\Desktop\tpa 25-08\exercicio_9\exercicio_9\obj\Debug\net8.0\refint\exercicio_9.dll
+C:\Users\Zenilda\Desktop\tpa 25-08\exercicio_9\exercicio_9\obj\Debug\net8.0\exercicio_9.pdb
+C:\Users\Zenilda\Desktop\tpa 25-08\exercicio_9\exercicio_9\obj\Debug\net8.0\exercicio_9.genruntimeconfig.cache
+C:\Users\Zenilda\Desktop\tpa 25-08\exercicio_9\exercicio_9\obj\Debug\net8.0\ref\exercicio_9.dll
