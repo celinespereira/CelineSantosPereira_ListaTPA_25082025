@@ -1,0 +1,14 @@
+C:\Users\Zenilda\Desktop\Jo-ken-po\jo-ken-po\jo-ken-po\bin\Debug\net8.0\jo-ken-po.exe
+C:\Users\Zenilda\Desktop\Jo-ken-po\jo-ken-po\jo-ken-po\bin\Debug\net8.0\jo-ken-po.deps.json
+C:\Users\Zenilda\Desktop\Jo-ken-po\jo-ken-po\jo-ken-po\bin\Debug\net8.0\jo-ken-po.runtimeconfig.json
+C:\Users\Zenilda\Desktop\Jo-ken-po\jo-ken-po\jo-ken-po\bin\Debug\net8.0\jo-ken-po.dll
+C:\Users\Zenilda\Desktop\Jo-ken-po\jo-ken-po\jo-ken-po\bin\Debug\net8.0\jo-ken-po.pdb
+C:\Users\Zenilda\Desktop\Jo-ken-po\jo-ken-po\jo-ken-po\obj\Debug\net8.0\jo-ken-po.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zenilda\Desktop\Jo-ken-po\jo-ken-po\jo-ken-po\obj\Debug\net8.0\jo-ken-po.AssemblyInfoInputs.cache
+C:\Users\Zenilda\Desktop\Jo-ken-po\jo-ken-po\jo-ken-po\obj\Debug\net8.0\jo-ken-po.AssemblyInfo.cs
+C:\Users\Zenilda\Desktop\Jo-ken-po\jo-ken-po\jo-ken-po\obj\Debug\net8.0\jo-ken-po.csproj.CoreCompileInputs.cache
+C:\Users\Zenilda\Desktop\Jo-ken-po\jo-ken-po\jo-ken-po\obj\Debug\net8.0\jo-ken-po.dll
+C:\Users\Zenilda\Desktop\Jo-ken-po\jo-ken-po\jo-ken-po\obj\Debug\net8.0\refint\jo-ken-po.dll
+C:\Users\Zenilda\Desktop\Jo-ken-po\jo-ken-po\jo-ken-po\obj\Debug\net8.0\jo-ken-po.pdb
+C:\Users\Zenilda\Desktop\Jo-ken-po\jo-ken-po\jo-ken-po\obj\Debug\net8.0\jo-ken-po.genruntimeconfig.cache
+C:\Users\Zenilda\Desktop\Jo-ken-po\jo-ken-po\jo-ken-po\obj\Debug\net8.0\ref\jo-ken-po.dll
